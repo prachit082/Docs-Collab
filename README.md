@@ -3,7 +3,7 @@
 <div align="center">
   <br />
     <a href="https://github.com/prachit082" target="_blank">
-      <img src="https://github.com/user-attachments/assets/eaaeb1f0-22da-46be-9e29-9bef70e0039d" alt="Project Banner">
+      <img src="/Image.png" alt="Project Banner">
     </a>
   <br />
 </div>
