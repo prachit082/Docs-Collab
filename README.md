@@ -28,7 +28,7 @@ Built with Next.js to handle the user interface, Liveblocks for real-time featur
 - TypeScript
 - Liveblocks
 - Lexical Editor
-- ShadCN
+- Radix UI
 - Tailwind CSS
 - Sentry
 - Clerk
