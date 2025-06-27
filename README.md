@@ -14,7 +14,6 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Links](#links)
 
 ---
 
@@ -108,9 +107,3 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="links">🔗 Links</a>
-
-- Public assets used in the project can be found [here](https://drive.google.com/file/d/1MCQaP-imgDdopwcUn4CN_D-WglDc--Ho/view?usp=sharing)
-- [Liveblocks Starter Guide](https://liveblocks.io/docs/get-started/nextjs-lexical)
-
-#
